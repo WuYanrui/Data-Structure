@@ -1,6 +1,7 @@
 # Data-Structure
 
-Sort
-Seach
+Linked list
+Queue
+Stack
 Tree
 Graph
